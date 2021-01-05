@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Soham Tomar",
+    "occupation": "Junior Software Developer",
+    "description": "I am a recent graduate of Computer Science from Memorial University",
+    "image": "sohamtomar.jpg",
+    "bio": "My name is Soham, I'm an aspiring Junior Software. Currently I'm looking for work in the field Software Development ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "stomar@mun.ca",
+    "phone": "+1-709-746-2939",
+    "address": {
+      "street": "29 Wicklow Street",
+      "city": "St. John's",
+      "state": "NL",
+      "zip": "A1B 3H4"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1iX3hWkCy-K8qbClIUVvtlLOPQlMA6WM0/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/soham.tomargilly",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sohamtomargilly/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/soham.tomargilly/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tomarST",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Memorial University of Newfoundland",
+        "degree": "Bachelors in Computer Science with a Minor in Mathematics ",
+        "graduated": "Sept 2016 - Sept 2020",
+        "description": "Graduated with 3.4 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Nocland",
+        "title": "Software Developer",
+        "years": "Sept 2020 - Present",
+        "description": "Made the front-end from scratch, using ReactJS and Material UI. Collected the data using RESTAPI’s from several back-ends and displayed it in the main front-end., Deployed and maintained it on NGINX webserver and documented the codebase "
+      },
+      {
+        "company": "Maries Mini Mart",
+        "title": "Cashier",
+        "years": "Dec 2019 - March 2020",
+        "description": "Handling Cash Register, Recording Customers feedback, Maintaining Store Standards. "
+      },
+      {
+        "company": "Tim Hortons",
+        "title": "Team Member",
+        "years": "Sep 2017 - June 2019",
+        "description": "Making Coffee, Handling Cash Transactions, Recording Customers feedback."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name" : "MySQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Face Recognition",
+        "category": "Face Recognition built with PERN (PostGres, ExpressJS, ReactJS, NodeJS)",
+        "image": "image-recognition.png",
+        "url": "http://image-recognitionapp.herokuapp.com/"
+      },
+      {
+        "title": "Qualiteas Website",
+        "category": "Website built with ReactJS and Material-UI",
+        "image": "qualiteas.png",
+        "url": "https://tomarst.github.io/qualiteas/"
+      }
+    ]
+  }
+}
