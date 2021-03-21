@@ -15,7 +15,7 @@
       "zip": "A1B 3H4"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1iX3hWkCy-K8qbClIUVvtlLOPQlMA6WM0/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1GfIvc1mtcancX1NN44W168ZT1wQgy6kB/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are few languages that I have worked with/ used at my workplaces and in personal projects",
     "education": [
       {
         "school": "Memorial University of Newfoundland",
@@ -51,28 +51,26 @@
     ],
     "work": [
       {
+        "company": "Beaufort Solutions",
+        "title": "Software Developer",
+        "years": "JAN 2021 - Present",
+        "description": "Shared responsibility for production environments.\n Design and develop APIs and back-end infrastructure. \n Shared responsibility for staging environment. \n Participated in code management strategies and code reviews  development of Beaufort software products and components. \nParticipated in programming, analyzing information,  problem solving, debugging, documentation and testing. "
+      },
+      {
         "company": "Nocland",
         "title": "Software Developer",
         "years": "Sept 2020 - Present",
-        "description": "Made the front-end from scratch, using ReactJS and Material UI. Collected the data using RESTAPI’s from several back-ends and displayed it in the main front-end., Deployed and maintained it on NGINX webserver and documented the codebase "
-      },
-      {
-        "company": "Maries Mini Mart",
-        "title": "Cashier",
-        "years": "Dec 2019 - March 2020",
-        "description": "Handling Cash Register, Recording Customers feedback, Maintaining Store Standards. "
-      },
-      {
-        "company": "Tim Hortons",
-        "title": "Team Member",
-        "years": "Sep 2017 - June 2019",
-        "description": "Making Coffee, Handling Cash Transactions, Recording Customers feedback."
+        "description": "Made the front-end from scratch, using ReactJS and Material UI. \n Collected the data using RESTAPI’s from several back-ends and displayed it in the main front-end. \n  Deployed and maintained it on NGINX webserver and documented the codebase "
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -87,7 +85,7 @@
         "level": "75%"
       },
       {
-        "name": "HTML5",
+        "name": "HTML",
         "level": "80%"
       },
       {
