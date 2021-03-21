@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here are few languages that I have worked with/ used at my workplaces and in personal projects",
+    "skillmessage": "Here are few languages/tools/frameworks/libraries that I have worked with/ used at my workplaces and in personal projects",
     "education": [
       {
         "school": "Memorial University of Newfoundland",
@@ -95,6 +95,22 @@
       {
         "name" : "MySQL",
         "level": "60%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "NgRx",
+        "level": "70%"
+      },
+      {
+        "name": "Pandas/Numpy",
+        "level": "80%"
+      },
+      {
+        "name": "Scikit-learn",
+        "level": "70%"
       }
     ]
   },
