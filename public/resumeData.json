@@ -127,6 +127,18 @@
         "category": "Website built with ReactJS and Material-UI",
         "image": "qualiteas.png",
         "url": "https://tomarst.github.io/qualiteas/"
+      },
+      {
+        "title": "Blokus",
+        "category": "Board game built with Java",
+        "image": "Blokus.png",
+        "url": "https://github.com/noahslade/comp2005-fall19-group3/blob/master/Group%203%20Iteration%204/Blokus.jar"
+      }, 
+      {
+        "title": "House Price Prediction",
+        "category": "Machine Learning model built using Python, Pandas, Numpy",
+        "image": "Machine Learning.png",
+        "url": "https://github.com/tomarST/Kaggle-Housing-Prices-Advanced-Regression-Techniques/blob/master/KaggleCompetitionsAdvancedRegressionTechniquesforPredictionHousePrices.ipynb"
       }
     ]
   }
